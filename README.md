@@ -1,0 +1,1 @@
+Application of Horoscope as an example 
